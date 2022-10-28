@@ -13,6 +13,7 @@ Are you a malloc guru with 300 years of experience? Come help us spread the joy 
 ## Where to find us
 
 * [Github Organization](https://github.com/NonGC) - The main hub that points to everything else. Also, we plan to have some projects hosted here in the future.
+* [Discord Server](https://discord.gg/VSZQ7esFy5) - Discussion in English or Portuguese.
 
 More coming soon...
 
